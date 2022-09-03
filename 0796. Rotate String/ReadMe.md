@@ -1,8 +1,7 @@
 # Problem 0796. 
 ### Rotate String
 
-
-[Link On LeetCode]()
+[Link On LeetCode](https://leetcode.com/problems/rotate-string/)
 
 ## Problem
 Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
